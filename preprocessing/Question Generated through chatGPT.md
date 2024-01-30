@@ -136,7 +136,81 @@ Work experience is desirable
 We offer only full-time PhD course for externals and that’s for a minimum period of 3 years. Hence you are required to stay here at Manipal for the course. There is no correspondence option. If you wish to pursue PhD here at Manipal, kindly apply when our applications open. Applications open in February and August every year
 <br>
 
+31.Am I eligible to join in PhD with out attending our entrance examination will be conducted by you?
+<br>
+As you currently need the scholarship from MAHE, you will have to take the entrance exam.
+<br>
 
+31.What is the teaching methodology at KMC?<br>
+KMC focuses on providing in-depth medical knowledge to its students. The teaching methodologies used here incorporate classroom teaching, practical learning, industrial exposure and field visits.
+<br>
 
+32.Can a foreign student apply to KMC?<br>
+Yes, we have seats reserved for foreign students at KMC, Manipal.
+<br>
 
+33.Do the students get an opportunity to present their research papers in international conferences?<br>
+Yes, we encourage and help the students to present their research papers in international conferences.
+<br>
 
+34.Do students of KMC work outside India?<br>
+Yes, the students of KMC are eligible for working outside India provided they fulfill the eligibility criteria set up by the concerned regulatory bodies.
+<br>
+
+35.Does the college reserve any PG seats for students who have done UG studies from KMC<br>
+No, there are no reservations of PG seats for students who’ve graduated from KMC.
+<br>
+
+36.What is the medium of instructions? Is the local language necessary for practice in hospital?<br>
+The medium of instructions is English and thus the knowledge of local language is not necessary for practicing in hospitals. However, local language helps them interact with the patients and understand their problems in a better way.
+<br>
+
+37.Can I pursue distance education or online courses at MAHE?
+<br>
+MAHE primarily focuses on on-campus programs. However, they may offer certain courses through distance education or online platforms. It's advisable to check the official website or contact the university for specific details on distance learning options.
+<br>
+38.Are there opportunities for research and innovation at MAHE?
+<br>
+Yes, MAHE encourages research and innovation across various disciplines. The university has dedicated research centers, and students have the opportunity to engage in research projects, conferences, and publications.
+<br>
+
+39.What is the student-faculty ratio at MAHE?
+<br>
+The student-faculty ratio at MAHE varies across departments. Generally, the university maintains a reasonable ratio to ensure personalized attention and effective learning experiences.
+<br>
+40.How is the healthcare facility on the MAHE campus?
+<br>
+MAHE provides a well-equipped healthcare center on campus to cater to the medical needs of students and staff. In case of emergencies, tie-ups with nearby hospitals ensure timely medical assistance.
+<br>
+41.Do international students have support services at MAHE?
+<br>
+Yes, MAHE has dedicated support services for international students, including orientation programs, cultural integration activities, and assistance with accommodation and visa-related matters.
+<br>
+42.Is there a system for mentorship or counseling for students at MAHE?
+<br>
+MAHE has a mentorship system in place to guide students academically and personally. Additionally, the university offers counseling services to support students in addressing academic, emotional, or career-related concerns.
+<br>
+
+43.How does MAHE contribute to community service or social responsibility?
+<br>
+MAHE actively engages in community service and social responsibility initiatives. The university often organizes outreach programs, health camps, and projects aimed at contributing to the welfare of the local community.
+<br>
+
+44.What is the alumni network like at MAHE?
+<br>
+MAHE has a strong and active alumni network with graduates holding positions of prominence in various fields. The university organizes alumni reunions, networking events, and mentorship programs to facilitate continued connections.
+<br>
+
+45.Can students participate in international exchange programs at MAHE?
+<br>
+Yes, MAHE encourages students to participate in international exchange programs with partner universities. This provides an opportunity for cultural exchange, academic exposure, and a broader perspective on global issues.
+<br>
+46.How does MAHE support entrepreneurship among students?
+<br>
+MAHE has initiatives and incubation centers to support entrepreneurial ventures. Students with innovative ideas can access resources, mentorship, and funding opportunities to kickstart their own enterprises.
+<br>
+
+47.What is the policy on diversity and inclusion at MAHE?
+<br>
+MAHE is committed to fostering a diverse and inclusive campus environment. The university promotes equal opportunities for all students, irrespective of their background, and actively works towards creating a welcoming and supportive atmosphere.
+<br>
