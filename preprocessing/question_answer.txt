@@ -1,0 +1,325 @@
+Manipal Academy of Higher Education (MAHE) is an Indian school, with the status of an institution of eminence and deemed university. Over, students from different nations study there in the sprawling university town, which sits on a plateau in the Udupi district of Karnataka. The school has campuses in Mangalore, Bangalore, and Jamshedpur in India, as well as global campuses in Dubai and Malaysia.
+
+[('What does MAHE stand for?', 'Manipal Academy of Higher Education'),
+ ('In what district of Karnataka is the Manipal Academy of Higher Education '
+  'located?',
+  'Udupi'),
+ ('Where does the Manipal Academy of Higher Education have campuses?',
+  'Mangalore, Bangalore, and Jamshedpur')]
+
+
+
+In, Dr. T. M. A. Pai founded India's first private medical school, the Kasturba Medical College, and five years later the Manipal Institute of Technology was established. Initially, degrees were awarded by Karnataka University, Dharwad, and later by the University of Mysore. From to they were awarded by Mangalore University. The current organizational structure was formed in when Kasturba Medical College and Manipal College of Dental Sciences were accorded deemed university status by UGC. Manipal Institute of Technology became a constituent unit of Manipal Academy of Higher Education in.
+
+[("Who founded India's first private medical school?", 'Dr. T. M. A. Pai'),
+ ('Who initially awarded degrees to the Manipal Institute of Technology?',
+  'Karnataka University, Dharwad,'),
+ ('What university awarded degrees to the Manipal Institute of Technology?',
+  'Mangalore'),
+ ('What two schools were granted university status by the UGC?',
+  'Kasturba Medical College and Manipal College of Dental Sciences'),
+ ('What institution did the Manipal Institute of Technology become a '
+  'constituent unit of?',
+  'Manipal Academy of Higher Education')]
+
+
+
+In, MAHE introduced five online degree and diploma programs in business administration, data science, business analytics, and logistics and supply chain. The campus at Manipal covers acres of land and is centered in the university town of Manipal. Manipal Academy of Higher Education (MAHE) is an Indian school, with the status of an Institution of Eminence and deemed university. It comprises six libraries spread across its medical, humanities, and engineering school campuses. Budgetary provisions are given for research through capital allocations for the maintenance of animal facilities, consumables, equipment, etc. ₹ million (US $,) was sanctioned to the Manipal Institute of Technology in towards funding innovation. MCOPS, Manipal, sends its second-year postgraduate (PG) students for collaborative research programs at R&D centers all over the country.
+
+[('How many online degree and diploma programs did MAHE introduce?', 'five'),
+ ('How much land does the Manipal campus cover?', 'acres'),
+ ('What does MAHE stand for?', 'Manipal Academy of Higher Education'),
+ ('How many libraries does the Manipal Academy of Higher Education have?',
+  'six'),
+ ('How is research funded at the Manipal Academy of Higher Education?',
+  'Budgetary provisions are given for research through capital allocations for '
+  'the maintenance of animal facilities, consumables, equipment, etc.'),
+ ('What type of students does MCOPS send?', 'second-year postgraduate (PG) students')]
+
+
+
+Often, the research carried out by them becomes a part of the intellectual property of the company. The Manipal Life Science Centre has a research team and is undertaking several research projects funded by DBT, DST, etc. MLSC is linked to several international research institutions such as Wistar Institute, Philadelphia, University of Queensland, and many more. The Manipal Advanced Research Group was formed in early with an aim to grow new research projects in fundamental sciences and promote interdisciplinary cooperation in areas between basic research, biomedical science, and engineering. Media related to Manipal University at Wikimedia Commons. 
+
+[('How many research projects is the Manipal Life Science Centre undertaking?',
+  'several research projects'),
+ ('What is the Manipal Life Science Centre linked to?',
+  'several international research institutions'),
+ ('What type of research is the Manipal Advanced Research Group a part of?',
+  'basic research'),
+ ('What did the Manipal Advanced Research Group aim to grow?',
+  'new research projects'),
+ ('The Manipal Advanced Research Group aims to promote interdisciplinary '
+  'cooperation between basic research, engineering, and what other field?',
+  'biomedical science'),
+ ('The Manipal Advanced Research Group was formed in early with an aim to grow '
+  'new research projects in what?',
+  'fundamental sciences'),
+ ('What does the Manipal Life Science Centre have?', 'a research team'),
+ ('What is the name of the international research institute that MLSC is '
+  'linked to?',
+  'Wistar Institute'),
+ ('What did the Manipal Advanced Research Group aim to promote?',
+  'interdisciplinary cooperation'),
+ ('What is often a part of the intellectual property of a company?',
+  'the research')]
+
+
+
+Manipal is a suburb and university town within Udupi, in coastal Karnataka, India. Manipal is located five kilometers away from the center of Udupi city, in Udupi district, Karnataka (state) in southwestern India. It is administered by the Udupi City Municipality. The suburb is located in coastal Karnataka, km north of Mangalore and km east of the Arabian Sea.
+
+[('Where is Manipal located?', 'coastal Karnataka'),
+ ('Where is Manipal located?', 'southwestern India'),
+ ('In what country is Manipal located?', 'India'),
+ ('Where is Manipal located?', 'Karnataka'),
+ ('What is a suburb and university town within Udupi?', 'Manipal'),
+ ('What district is Manipal located in?', 'Udupi district'),
+ ('Manipal is five kilometers from the center of what city?', 'Udupi city'),
+ ('Where is Manipal located?', 'Udupi'),
+ ('Manipal is north of what city?', 'Mangalore'),
+ ('How far is Manipal from Mangalore?', 'km')]
+
+
+
+From its location on a plateau, at an altitude of about meters above sea level, it commands a panoramic view of the Arabian Sea to the west and the Western Ghats to the east. Home to the Manipal Academy of Higher Education, the town attracts more than twenty-five thousand students every year; hence, most of the population consists of students or university staff.
+
+[('At what altitude does Manipal command a panoramic view of the Arabian Sea '
+  'to the west?',
+  'sea level'),
+ ('What is the altitude above sea level of Manipal?', 'meters'),
+ ('What does most of the population of Manipal consist of?',
+  'university staff'),
+ ('What kind of view does Manipal have of the Arabian Sea to the west?',
+  'a panoramic view'),
+ ('What sea does Manipal command a panoramic view of to the west?',
+  'the Arabian Sea'),
+ ('What mountain range is east of Manipal?', 'the Western Ghats'),
+ ('How many people attend the Manipal Academy of Higher Education each year?',
+  'students'),
+ ('In what direction do the Western Ghats face the Arabian Sea?', 'the east'),
+ ('Why does Manipal commands a panoramic view of the Arabian Sea to the west '
+  'and the Western Ghats to the east?',
+  'its location'),
+ ('What is the altitude above sea level of Manipal?', 'about meters')]
+
+
+
+There are numerous spots throughout the suburb that attract students from nearby Mangalore and Udupi, such as End Point, Manipal Lake, and Malpe Beach. The city owes its rapid development to Manipal Academy of Higher Education for converting this into a student city. It is called 'Campus Town' by the locals.
+
+[('What beach attracts students from Mangalore and Udupi?', 'Malpe Beach'),
+ ('End Point, Manipal Lake, and Malpe Beach attract students from what city?',
+  'nearby Mangalore'),
+ ('What lake attracts students from Mangalore and Udupi?', 'Manipal Lake'),
+ ('What is the name of the spot that attracts students from Mangalore and '
+  'Udupi?',
+  'End Point'),
+ ('What attracts students from Mangalore and Udupi?', 'numerous spots'),
+ ('What does Manipal Lake attract?', 'students'),
+ ('Who converted Mangalore into a student city?', 'Manipal Academy'),
+ ('End Point, Manipal Lake, and Malpe Beach attract students from what city?',
+  'Mangalore'),
+ ('End Point, Manipal Lake, and Malpe Beach attract students from Mangalore '
+  'and what other city?',
+  'Udupi'),
+ ('Manipal Academy of what is responsible for converting Mangalore into a '
+  'student city?',
+  'Higher Education')]
+
+
+
+A regional information technology hub, Manipal has one of the highest densities of mobile phones in India. Manipal derives its name from 'Manna Palla' (meaning 'muddy hole' or 'muddy lake' in Tulu), commonly called Manipal Lake, a freshwater lake within Manipal. [Citation needed] Situated km (. mi) east of the center of the temple city of Udupi and km (mi) north of Mangalore, Manipal was previously part of the Shivalli Village Panchayat. Now it is part of Udupi City.
+
+[('What is a freshwater lake within Manipal called?', 'Manipal Lake'),
+ ('What city has one of the highest densities of mobile phones in India?',
+  'Manipal'),
+ ('Manipal has one of the highest densities of what in India?',
+  'mobile phones'),
+ ('Manipal has one of the highest densities of mobile phones in what country?',
+  'India'),
+ ('What is Manipal?', 'A regional information technology hub'),
+ ("What does 'Manna Palla' mean?", 'muddy hole'),
+ ('Where is Manipal located?', 'Tulu'),
+ ('What is the densities of mobile phones in Manipal?',
+  'the highest densities'),
+ ('What is Manipal Lake?', 'a freshwater lake'),
+ ("What does 'Manna Palla' mean?", 'muddy lake')]
+
+
+
+The name is derived from 'Munn' and 'Palla,' Anglicized to Manipal. Munn means 'mud' and Palla means 'lake' in Tulu language. This lake, roughly in the shape of mtrs. Diameter circle, after which Manipal is named, is located in the middle of the town and about km (. mi) away from the Arabian Sea and has a boating facility.
+
+[('Manipal is derived from Munn and what other word?', 'Palla'),
+ ('What is Manipal Anglicized to?', 'Manipal'),
+ ('What language does Palla come from?', 'Tulu language'),
+ ("What does 'Palla' mean in Tulu?", 'Munn'),
+ ('How far is Manipal from the Arabian Sea?', 'km'),
+ ('How far away from the Arabian Sea is Manipal?', 'mi'),
+ ('What does Palla mean in Tulu?', 'lake'),
+ ('What language does Palla come from?', 'Tulu'),
+ ('What does the lake have?', 'a boating facility'),
+ ('Where is Manipal located?', 'the Arabian Sea')]
+
+
+
+The Swarna River passes just north of Manipal. Recreational facilities are available through End Point Park and Tree Park. Manipal was once a barren hill with few trees. This hill was transformed into the university town it now is by Dr. T. M. A. Pai, who first started the Kasturba Medical College in, now a part of the university, the Manipal Academy of Higher Education (MAHE). Tourist spots like Agumbe, Kudremukh, Kapu, and Malpe are also located nearby.
+
+[('What park is near Manipal?', 'Tree Park'),
+ ('What is the name of the park in Manipal?', 'End Point Park'),
+ ('The Swarna River passes just north of what city?', 'Manipal'),
+ ('What river passes just north of Manipal?', 'Swarna River'),
+ ('What was once a barren hill?', 'few trees'),
+ ('What does MAHE stand for?', 'Higher Education'),
+ ('What is the Manipal Academy of Higher Education?', 'MAHE'),
+ ('Who started the Kasturba Medical College?', 'Dr. T. M. A. Pai'),
+ ('What does MAHE stand for?', 'the Manipal Academy'),
+ ('Who started the Kasturba Medical College?', 'T. M. A. Pai')]
+
+
+
+From September to February, the weather in Manipal is tropical with daily temperatures averaging °C (°F). From June to mid-October, Manipal witnesses one of the most extreme monsoons in the world, with the annual precipitation ranging from – cm (– in). The months of December to May are hot and humid, with the daily temperatures typically peaking at °C (°F).
+
+[('What is the average daily temperature in Manipal?', '°C'),
+ ('What is the average daily temperature in Manipal?', '°'),
+ ('What is the average temperature in Manipal?', 'daily temperatures'),
+ ('What is the average temperature in Manipal from September to February?',
+  'F'),
+ ('Where is one of the most extreme monsoons in the world?', 'Manipal'),
+ ('When does the weather in Manipal begin to change?', 'September'),
+ ('What is the average temperature in Manipal?', 'daily'),
+ ('In what month does the weather in Manipal average °C?', 'February'),
+ ('What is the annual precipitation in inches in Manipal?', 'cm'),
+ ('When is the weather in Manipal tropical?', 'September to February')]
+
+
+
+Being away from large urban centers and the highly tropical climate, the town attracts a large number of birds, with different species of birds being recorded in February, including rarities such as the Tickell's Thrush, Blue-eared Kingfisher, and Slaty-breasted Rail.
+
+[('Along with the tropical climate, what is the town away from?',
+  'large urban centers'),
+ ('What does the town attract a large number of?', 'birds'),
+ ('What type of birds were recorded in February?', 'different species'),
+ ("When are different species of birds recorded in Tickell's Thrush?",
+  'February'),
+ ("What type of birds are Tickell's Thrush, Blue-eared Kingfisher, and "
+  'Slaty-breasted Rail?',
+  'rarities'),
+ ('How many birds does the town attract?', 'a large number'),
+ ('What is the name of the Thrush that is a rarity in the town?', 'Tickell'),
+ ('What type of bird is a Blue-eared?', 'Kingfisher'),
+ ("Along with the Tickell's Thrush, Blue-eared Kingfisher, and Blue-eared "
+  'Kingfisher, what rare bird is found in the town?',
+  'Slaty-breasted Rail'),
+ ('What is the name of the rare bird that is found in the town?',
+  'Blue-eared Kingfisher')]
+
+
+
+Manipal is connected to Mangalore (takes about minutes via road) and towns such as Udupi, Karkala, and Kundapur by several private bus services and KSRTC city buses which run every thirty minutes.
+
+[('What type of buses connect Manipal to Mangalore?',
+  'several private bus services'),
+ ('What bus service runs every thirty-minutes?', 'KSRTC city buses'),
+ ('How long does it take to get from Manipal to Mangalore?', 'minutes'),
+ ('Along with Karkala and Kundapur, what town is connected to Manipal by '
+  'private bus services?',
+  'Udupi'),
+ ('Along with Udupi and Kundapur, what town is connected to Manipal by bus?',
+  'Karkala'),
+ ('How is Manipal connected to Mangalore?', 'road'),
+ ('Along with Udupi, Karkala and Udupi, what town is connected to Manipal by '
+  'private bus services?',
+  'Kundapur'),
+ ('What is the name of the city bus service that connects Manipal to '
+  'Mangalore?',
+  'KSRTC'),
+ ('What city is connected to Mangalore by road?', 'Manipal'),
+ ('What city is Manipal connected to?', 'Mangalore')]
+
+
+
+The town also has overnight bus services to Bangalore, Hyderabad, Goa, and Mumbai. There are also buses which connect to the famous nearby tourist attractions like Malpe Beach, Delta Beach, Dharmasthala. Karnataka State Road Transport Corporation runs air-conditioned bus service between Mangalore International Airport and Manipal.
+
+[('What type of bus service does Mangalore have?', 'overnight bus services'),
+ ('What type of buses connect to Malpe Beach, Delta Beach, and Dharmasthala?',
+  'buses'),
+ ('Mangalore has overnight bus services to Bangalore, Hyderabad, Goa, and what '
+  'other city?',
+  'Mumbai'),
+ ('What is the name of the famous beach in Mangalore?', 'Delta Beach'),
+ ('What famous beach does Mangalore have a bus service to?', 'Malpe Beach'),
+ ('Where does the Karnataka State Road Transport Corporation run '
+  'air-conditioned bus service between Manipal and?',
+  'Mangalore International Airport'),
+ ('Mangalore has overnight bus services to Bangalore, Hyderabad, Mumbai, and '
+  'what other city?',
+  'Goa'),
+ ('Mangalore has overnight bus services to what city?', 'Bangalore'),
+ ('What type of bus service does the Karnataka State Road Transport '
+  'Corporation run between Mangalore International Airport and Manipal?',
+  'air-conditioned bus service'),
+ ('Where does the Karnataka State Road Transport Corporation run a bus service '
+  'between Mangalore International Airport and?',
+  'Manipal')]
+
+
+
+The nearest railway station is Udupi Station (UD) on the Konkan Railway line, located four kilometers west of Manipal. It has trains connecting Bengaluru, Mumbai, Goa, Kerala, New Delhi, Gujarat, Rajasthan, Uttar Pradesh, Madhya Pradesh, Haryana, Tamil Nadu, Uttarakhand, Punjab.
+
+[('What is the closest railway station to Manipal?', 'Udupi Station'),
+ ('Udupi Station is located four kilometers west of what city?', 'Manipal'),
+ ('What is the closest railway station to Manipal?', 'Udupi Station (UD'),
+ ('On what railway line is Udupi Station located?', 'the Konkan Railway line'),
+ ('What is Udupi Station?', 'The nearest railway station'),
+ ('Which state has the closest railway station to Udupi Station?',
+  'Madhya Pradesh'),
+ ('Which state has the closest railway station to Udupi Station?',
+  'Uttar Pradesh'),
+ ('Along with Uttarakhand and Bengaluru, what state has a railway station near '
+  'Udupi Station?',
+  'Punjab'),
+ ("What is Uttarakhand's nearest railway station?", 'Tamil Nadu'),
+ ('What city is near Udupi Station?', 'New Delhi')]
+
+
+
+It is about a kilometer away from the National Highway A. Mangalore Central (MAQ) is the nearest major railway station and is located in Mangalore, km (mi) south of the town.
+
+[('What is the nearest railway station?', 'Mangalore'),
+ ('What is the nearest railway station?',
+  'the National Highway A. Mangalore Central'),
+ ('What is Mangalore Central also known as?', 'MAQ'),
+ ('What is Mangalore Central?', 'the nearest major railway station'),
+ ('Where is Mangalore Central located?', 'the town'),
+ ('What is the closest railway station to Mangalore?', '(MAQ'),
+ ('How far south of Mangalore is MAQ?', '(mi'),
+ ('What is the closest railway station to Mangalore?', 'It')]
+
+
+
+The nearest international airport is Mangalore International Airport, which is located around km (mi) south from Manipal, connecting it to Indian cities like Mumbai, Bangalore, Hyderabad, Chennai, and Delhi, and internationally to the Middle Eastern countries like Oman, Kuwait, Bahrain, Qatar, Saudi Arabia, and United Arab Emirates. Pre-paid taxis are available to transport passengers to and from Manipal and Udupi. 
+
+[('What is the closest international airport to Manipal?',
+  'Mangalore International Airport'),
+ ('Mumbai, Bangalore, Hyderabad, Chennai, and Delhi are some of what cities?',
+  'Indian cities'),
+ ('Along with Oman, Kuwait, Bahrain, Qatar, Saudi Arabia, and what other '
+  'country is Mangalore International Airport connected to?',
+  'United Arab Emirates'),
+ ('Oman, Kuwait, Bahrain, Qatar, Saudi Arabia, and Udupi are countries in what '
+  'region?',
+  'Middle Eastern'),
+ ('Where is Mangalore International Airport located?', 'Manipal'),
+ ('Along with Oman, Kuwait, Bahrain, Qatar, and the United Arab Emirates, what '
+  'country has an international airport near Mangalore International Airport?',
+  'Saudi Arabia'),
+ ('Mumbai, Bangalore, Hyderabad, Chennai, and Delhi are cities in what '
+  'country?',
+  'Indian'),
+ ('Along with Bangalore, Hyderabad, Chennai, and Delhi, what Indian city has '
+  'an international airport near Mangalore International Airport?',
+  'Mumbai'),
+ ('Along with Mumbai, Hyderabad, Chennai, and Delhi, what Indian city has an '
+  'international airport near Mangalore International Airport?',
+  'Bangalore'),
+ ('What is Mangalore International Airport?',
+  'The nearest international airport')]
+
