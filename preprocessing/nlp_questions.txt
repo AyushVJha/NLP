@@ -1,21 +1,23 @@
 'Set 0 : \n'
-100%|██████████| 5/5 [00:00<00:00, 266.88it/s]
+
 ['What does mahe stand for?',
  'How many students study in the sprawling university town?',
  'What is the name of the school that has campuses in bangalore and '
  'jamshedpur?',
  'When did dr. t. m. a. pai founded the kasturba medical college?',
  'How were degrees awarded at karnataka university and dharwad?']
+
 'Set 1 : \n'
-100%|██████████| 5/5 [00:00<00:00, 854.55it/s]
+
 ['How did mangalore university award them?',
  'When was the current organizational structure formed?',
  'When did manipal institute of technology become a constituent unit of '
  'manipal academy of higher education?',
  'When did mahe introduce online degree and diploma programs?',
  'How large is the campus at manipal?']
+
 'Set 2 : \n'
-100%|██████████| 5/5 [00:00<00:00, 167.33it/s]
+
 ['When did Manipal start offering UGC-entitled online degree programs?',
  'What is the name of the online MBA program offered by the university?',
  'When was the Manipal Academy of Higher Education conferred the Institutes of '
@@ -24,30 +26,34 @@
  'University Rankings?',
  'How was it ranked in the world by the Times Higher Education World '
  'University Rankings?']
+
 'Set 3 : \n'
-100%|██████████| 5/5 [00:00<00:00, 616.68it/s]
+
 ['How did NAAC rank Manipal Academy of Higher Education in India?',
  'How did the NIRF rank the Manipal College of Pharmaceutical Sciences?',
  'How are budgets allocated for research?',
  'How much was sanctioned to the Manipal Institute of Technology in 2013?',
  'What does MCOPS do with its students?']
+
 'Set 4 : \n'
-100%|██████████| 5/5 [00:00<00:00, 844.91it/s]
+
 ['What happens to the research carried out by a company?',
  'How is the Manipal Life Science Centre funded?',
  'How is MLSC linked to other research institutions?',
  'What is the purpose of the Manipal Advanced Research Group?',
  'What does Wikimedia Commons have to say about Manipal University?']
+
 'Set 5 : \n'
-100%|██████████| 5/5 [00:00<00:00, 729.11it/s]
+
 ['What is the name of Manipal?',
  'How far is Manipal from the center of Udupi city?',
  'Who administers the city?',
  'Where is the suburb of Karnataka located?',
  'How does it view the Arabian Sea to the west and the Western Ghats to the '
  'east?']
+
 'Set 6 : \n'
-100%|██████████| 5/5 [00:00<00:00, 292.07it/s]
+
 ['What is the name of the school that attracts students from Mangalore and '
  'Udupi?',
  'What does the city owe its rapid development to Manipal Academy of Higher '
@@ -56,45 +62,51 @@
  'India?',
  'What is the origin of the name Manipal?',
  'What is the distance from the city?']
+
 'Set 7 : \n'
-100%|██████████| 5/5 [00:00<00:00, 740.31it/s]
+
 ['How far from the center of Udupi is Manipal?',
  'What is the name of the city that is now part of Udupi City?',
  'What is the origin of Munn and Palla?',
  'What is the shape of the lake?',
  'What is the diameter circle located in the middle of Manipal?']
+
 'Set 8 : \n'
-100%|██████████| 5/5 [00:00<00:00, 983.65it/s]
+
 ['How many miles is it?',
  'Where is there a boating facility?',
  'Where does the Swarna River pass?',
  'What kind of facilities are available through End Point Park and Tree Park?',
  'Was Manipal once a barren hill with few trees?']
+
 'Set 9 : \n'
-100%|██████████| 5/5 [00:00<00:00, 69.59it/s]
+
 ['How did Dr. T. M. A. Pai transform Kasturba Medical College?',
  'What other tourist spots are located nearby?',
  'What is the weather like in Manipal?',
  'What are the months of December to May?',
  'What is one of the reasons the town attracts a large number of birds?']
+
 'Set 10 : \n'
-100%|██████████| 5/5 [00:00<00:00, 104.48it/s]
+
 ['How is Manipal connected to Mangalore?',
  "What is the name of the city's bus service?",
  'What is the name of the buses that connect to Malpe Beach?',
  'Who runs the bus service between Mangalore International Airport and '
  'Manipal?',
  'What is the nearest railway station?']
+
 'Set 11 : \n'
-100%|██████████| 5/5 [00:00<00:00, 616.83it/s]
+
 ['What is the name of the train network?',
  'How far is Mangalore Central from the National Highway A?',
  'What is the closest international airport to Manipal?',
  'What type of taxis are available to transport passengers to and from Manipal '
  'and Udupi?',
  'What type of bus service does KSRTC run?']
+
 'Set 12 : \n'
-100%|██████████| 5/5 [00:00<00:00, 594.95it/s]
+
 ['What buses connect Manipal to the Kempegowda International Airport?',
  'What is the name of the daily bus service from Manipal to Kempegowda '
  'International Airport?',
@@ -102,82 +114,93 @@
  'What is the status of the Manipal Academy of Higher Education?',
  'How has the college been ranked among the top ten private engineering '
  'colleges in India?']
+
 'Set 13 : \n'
-100%|██████████| 5/5 [00:00<00:00, 571.57it/s]
+
 ['Where is Karnataka ranked?',
  'Who founded the Manipal Pre-University College?',
  "What is Manipal's major technology and medical research hub?",
  'What has sprung up since the establishment of MUTBI?',
  'What is the name of Manipal Institute of Technology?']
+
 'Set 14 : \n'
-100%|██████████| 5/5 [00:00<00:00, 484.36it/s]
+
 ['What was the name of the first self-financing engineering college in the '
  'country?',
  'What is MIT a constituent unit of?',
  'How many degrees does the institute award?',
  'Where is the MIT campus located?',
  'What type of research programs does the institute have?']
+
 'Set 15 : \n'
-100%|██████████| 5/5 [00:00<00:00, 538.63it/s]
+
 ['What was the name of the Institute of Eminence?',
  'Who was Roque Fernandes?',
  'When was the Kasturba Medical College, Manipal campus first opened?',
  'How did the institute begin?',
  'What was the first discipline offered at the institute?']
+
 'Set 16 : \n'
-100%|██████████| 5/5 [00:00<00:00, 803.51it/s]
+
 ['What were the housing facilities for outstation students?',
  'When did the institute become affiliated with the University of Mysore?',
  'How many more courses were added as the college expanded?',
  'What was the name of the MIT, Manipal student chapter?',
  'When was the Venugopala Temple built?']
+
 'Set 17 : \n'
-100%|██████████| 5/5 [00:00<00:00, 1063.19it/s]
+
 ['How many well-known people have visited the MIT campus?',
  'When did the Dalai Lama visit the college?',
  'When did Indira Gandhi visit India?',
  'When was the Manipal Institute of Technology renamed?',
  'When was the institute brought under the purview of Mangalore University?']
+
 'Set 18 : \n'
-100%|██████████| 5/5 [00:00<00:00, 83.34it/s]
+
 ['When were other branches of study introduced?',
  'When was the floodlit basketball court at Kamath Circle inaugurated?',
  'What happened to Manipal Institute of Technology?',
  'What was the name of the professor who visited the college?',
  'What happened to Pratibha Patil?']
+
 'Set 19 : \n'
-100%|██████████| 5/5 [00:00<00:00, 799.98it/s]
+
 ['What was the result of the construction of the Innovation Center?',
  'What was completed during this period?',
  'What was built anticipating the increase in intake?',
  'What was added to aeronautical engineering and automobile engineering?',
  'When was the Department of Architecture rechristened as the Faculty of '
  'Architecture?']
+
 'Set 20 : \n'
-100%|██████████| 5/5 [00:00<00:00, 527.64it/s]
+
 ['When was an integrated course in computer science and communication '
  'engineering added?',
  'How much did the undergraduate student intake increase from 500 to 1,800?',
  'How many students were in the institute as of July?',
  'What was the name of the person who visited the institute?',
  'What was the name of Shri Pranab Mukherjee?']
+
 'Set 21 : \n'
-100%|██████████| 5/5 [00:00<00:00, 737.76it/s]
+
 ['How did S.S. Rajmouli visit the institute?',
  'What was the name of the convention held at the institute?',
  "What was Kartikeya Rastogi's name?",
  'What was MIT Manipal among the two private institutes to be decreed with '
  'Institute of Eminence?',
  'What has happened to Kamath Circle?']
+
 'Set 22 : \n'
-100%|██████████| 5/5 [00:00<00:00, 720.55it/s]
+
 ['What is the capacity of the food court?',
  'What other food courts are located near Hostel Block and Hostel Block D?',
  'How long has MIT been using a credit-based system?',
  'When does the odd semester begin?',
  'How is Manipal Academy of Higher Education accredited?']
+
 'Set 23 : \n'
-100%|██████████| 5/5 [00:00<00:00, 559.72it/s]
+
 ['What does MIT Manipal offer?',
  'What is the basis for admission to postgraduate programs?',
  'What kind of programs does the institute offer?',
@@ -185,15 +208,16 @@
  'colleges in India?',
  'What is the Manipal Entrance Test?']
 'Set 24 : \n'
-100%|██████████| 5/5 [00:00<00:00, 1104.35it/s]
+
 ['How long does the exam last?',
  'How many marks does the test have?',
  'How many opportunities does MAHE offer for a student to write the entrance '
  'exam?',
  'What happened to the test format?',
  'How many marks does each MCQ carry?']
+
 'Set 25 : \n'
-100%|██████████| 5/5 [00:00<00:00, 866.91it/s]
+
 ['How does the institute make budgetary provisions for the maintenance of '
  'research equipment?',
  'What was sanctioned to the institute?',
@@ -201,46 +225,52 @@
  'What do students of the institute do as a part of their curriculum?',
  'What research programs are being pursued in the interdisciplinary labs under '
  "the institute's Innovation Centre?"]
+
 'Set 26 : \n'
-100%|██████████| 5/5 [00:00<00:00, 97.91it/s]
+
 ['What are the oldest student organizations?',
  'What is the apex student body of MIT Manipal?',
  'Who is in charge of all cultural clubs of the institute?',
  'What is the role of the Sports Secretary?',
  'What does the Technical Secretary do?']
+
 'Set 27 : \n'
-100%|██████████| 5/5 [00:00<00:00, 392.35it/s]
+
 ['How many clubs and organizations are in the institute?',
  'How are the clubs run?',
  'What clubs have won awards at major cultural fests like Unmaad and Mood '
  'Indigo?',
  "What is the name of MIT's media body?",
  'When was it founded?']
+
 'Set 28 : \n'
-100%|██████████| 5/5 [00:00<00:00, 157.35it/s]
+
 ['What does the MIT Post keep a record of?',
  'What is another name for the Photography Club, Manipal?',
  'Who has won the GE Edison Innovation Challenge and the Schneider Electric '
  'India Innovation Challenge?',
  'What type of clubs does the college have?',
  'What is the purpose of Formula Manipal?']
+
 'Set 29 : \n'
-100%|██████████| 5/5 [00:00<00:00, 833.26it/s]
+
 ['What was the purpose of the Ferrari Race Track at Maranello competition?',
  'When did the team participate with the second prototype?',
  'What is the name of ThrustMIT?',
  'What is the goal of the rocketry team?',
  'What is the modus operandi of ThrustMIT?']
+
 'Set 30 : \n'
-100%|██████████| 5/5 [00:00<00:00, 1086.61it/s]
+
 ['What is Project Manas?',
  'What is the name of the driverless car challenge?',
  'How many stages did the team qualify for?',
  'What is the prototype capable of detecting and navigating around '
  'pedestrians?',
  'What is the aim of AeroMIT?']
+
 'Set 31 : \n'
-100%|██████████| 5/5 [00:00<00:00, 862.64it/s]
+
 ['What is the purpose of designing and fabricating RC and autonomous aerial '
  'vehicles?',
  'What was one of the most successful years for the team?',
@@ -248,8 +278,9 @@
  'Aerophilia and Techfest?',
  'How did the SAE Aerodesign East team rank?',
  'What was the only team to lift the maximum possible payload?']
+
 'Set 32 : \n'
-100%|██████████| 5/5 [00:00<00:00, 99.57it/s]
+
 ['What is not the only goal of the team?',
  'What is the mission of Mars Rover Manipal?',
  "How do the Mars Society USA's Mars Rovers rank at the University Rover "
@@ -257,30 +288,34 @@
  'What is the name of the robotics competition held at the Mars Desert '
  'Research Station?',
  'How many festivals does MIT host each semester?']
+
 'Set 33 : \n'
-100%|██████████| 5/5 [00:00<00:00, 1032.83it/s]
+
 ['When is there a cultural and sports festival called "Revels"?',
  'What was the official theme of the Revels festival?',
  'What was the theme of the conference?',
  'When is Tech Tatva held?',
  'What type of fests are organized by students from all over India?']
+
 'Set 34 : \n'
-100%|██████████| 5/5 [00:00<00:00, 92.95it/s]
+
 ['Who organizes the festivities on the campus?',
  'How is the fest handled by the students?',
  'What happened to the director of the Manipal Institute of Technology?',
  'What did MIT require students to do in March?',
  'What did some students complain about when installing the software?']
+
 'Set 35 : \n'
-100%|██████████| 5/5 [00:00<00:00, 836.45it/s]
+
 ['What happened to the students of MIT after they were called back to campus '
  'for the offline end-semester examinations?',
  'Why were classes canceled on campus in March?',
  'How many students of MIT were infected by the coronavirus?',
  'When did MIT release a revised schedule for the upcoming months?',
  'What was the schedule like?']
+
 'Set 36 : \n'
-100%|██████████| 3/3 [00:00<00:00, 858.49it/s]
+
 ['What caused outrage amongst the students?',
  'How did the administration of MIT and MAHE handle the protests?',
  'What happened to the end-semester examinations?']
