@@ -323,3 +323,368 @@ The nearest international airport is Mangalore International Airport, which is l
  ('What is Mangalore International Airport?',
   'The nearest international airport')]
 
+
+
+KSRTC runs air-conditioned direct bus service between Manipal and Mangaluru International Airport. Buses also connect Manipal directly to the Kempegowda International Airport in Bangalore, to cater to the large number of international students studying at the university. KSRTC recently started 'Flybus', a premium daily bus service from Manipal to Kempegowda International Airport in Bangalore. Manipal gained prominence when Dr. T.M.A Pai founded the Kasturba Medical College in , the Manipal Institute of Technology in , a popular institute for engineering, and other colleges later, all of which became a part of Manipal Academy of Higher Education in . Manipal Academy of Higher Education has been granted the status of Institute of Eminence in the year.
+
+[('What was the name of the popular institute for engineering founded by Dr. '
+  'T.M.A Pai?',
+  'Manipal Institute of Technology in'),
+ ('What airport does KSRTC connect Manipal to?',
+  'Kempegowda International Airport'),
+ ('What is Flybus?',
+  'daily bus service from Manipal to Kempegowda International Airport'),
+ ('What academy did the Manipal Institute of Technology become a part of?',
+  'Manipal Academy of Higher Education in')]
+
+
+
+It has also been ranked among the top ten private engineering colleges within India. It is ranked nd within the state of Karnataka. Pai also founded the Manipal Pre-University College. Manipal is a major technology and medical research hub, with major conferences and seminars organized almost every week. Since the establishment of Manipal University Technology and Business Incubator (MUTBI), the in-house business incubator of the university, a large number of student-run technology and media startups have sprung up. Manipal Institute of Technology is a private engineering school under Manipal Academy of Higher Education in India. The Manipal Institute of Technology (MIT), Manipal, was established in as one of the first self-financing engineering colleges in the country.
+
+[('Manipal has been ranked among what private engineering colleges in India?',
+  'top ten'),
+ ('Where is Manipal ranked within the state of Karnataka?', 'nd'),
+ ('Who founded the Manipal Pre-University College?', 'Pai'),
+ ('What is Manipal a hub for?', 'technology and medical research'),
+ ('What type of startups have sprung up at Manipal?',
+  'student-run technology and media startups'),
+ ('Manipal Institute of Technology is a private engineering school under what '
+  'name in India?',
+  'Manipal Academy of Higher Education'),
+ ('What type of engineering college was the Manipal Institute of Technology '
+  'established as?',
+  'self-financing')]
+
+
+
+MIT is a constituent unit of Manipal Academy of Higher Education (MAHE), Manipal, Karnataka, India. The institute has academic departments and awards undergraduate, graduate, and postgraduate degrees. The MIT campus is spread over acres of what once used to be a desolate plateau of hard, laterite rock in South Karnataka's Udupi District. The institute undertakes sponsored research programs supported by funding agencies such as DST, CSIR, AICTE, and the Ministry of Environmental Sciences. It has collaborative research programs in association with premier research laboratories and institutes in India and abroad. In the government of had decreed it as Institute of Eminence. Manipal Engineering College (MEC) was inaugurated on May by the then Chief Minister of Mysore, S. Nijalingappa.
+
+[('What does MAHE stand for?', 'Manipal Academy of Higher Education'),
+ ('What types of degrees does MIT award?',
+  'undergraduate, graduate, and postgraduate'),
+ ('How many acres is the MIT campus spread over?', 'acres'),
+ ('What type of programs does MIT undertake?', 'sponsored research'),
+ ('What type of programs does MIT have?', 'collaborative research'),
+ ('Who decreed MIT as Institute of Eminence?', 'the government'),
+ ('What does MEC stand for?', 'Manipal Engineering College')]
+
+
+
+The first president of the college was Roque Fernandes. In the initial months, lectures were held at the Kasturba Medical College, Manipal campus before the infrastructure was ready at its present campus towards the end of . The institute started with staff members and an annual intake of students for the undergraduate courses on a campus of acres (km). Civil engineering was the first discipline to be offered at the institute, but by , full undergraduate programs were also available in the areas of mechanical engineering and electrical engineering. Housing facilities were operational from for outstation students. In the initial years, the institute was affiliated with the Karnatak University.
+
+[('Who was Roque Fernandes?', 'president'),
+ ('When was the infrastructure ready at the Kasturba Medical College, Manipal '
+  'campus?',
+  'towards the end of'),
+ ('How did the institute start?',
+  'staff members and an annual intake of students'),
+ ('What was the first discipline to be offered at the institute?',
+  'Civil engineering'),
+ ('What was operational from outstation students?', 'Housing facilities'),
+ ('What university was the institute affiliated with in the initial years?',
+  'Karnatak')]
+
+
+
+In , the institute got affiliated to the University of Mysore. More courses were added over the decades as the college expanded. The MIT, Manipal student chapter of the Institution of Engineers (Mechanical and Manufacturing Engineering) was established in the mid-s. In , chemical engineering was introduced as a branch of study, followed by electronics and communication engineering. In , the semester scheme was adopted, and a one-year postgraduate diploma in industrial engineering was offered. In the same year, the Venugopala Temple, modelled on the famous Kirti Mandir, Vadodara, Gujarat, was built. The MIT campus has been visited by several well-known persons at various times. The Tibetan spiritual leader, the Dalai Lama, visited the college in .
+
+[('When did MIT become affiliated with the University of Mysore?', 'In'),
+ ('How did the college expand over the years?', 'More courses were added'),
+ ('When was the MIT, Manipal student chapter established?', 'mid-s. In'),
+ ('What type of diploma was offered at MIT in industrial engineering?',
+  'one-year postgraduate diploma'),
+ ('Where is the Venugopala Temple located?', 'Kirti Mandir,'),
+ ('When did the Dalai Lama visit MIT?',
+  'The Tibetan spiritual leader, the Dalai Lama, visited the college in'),
+ ('When did the Dalai Lama visit MIT?',
+  'Tibetan spiritual leader, the Dalai Lama, visited the college in')]
+
+
+
+The s saw the visit of Smt. Indira Gandhi, the then Prime Minister of India. In , it was renamed as Manipal Institute of Technology. The institute was brought under the purview of Mangalore University in . In , other branches of study such as industrial production and architecture were introduced. The construction of the 7-floor library building with an area of 60,000 square feet (5,600 m) and more hostel blocks, including 7th, 8th blocks and women's hostels were completed in the s. The swimming pool was inaugurated in , and the floodlit basketball court at Kamath Circle in . In Manipal Academy of Higher Education (MAHE) was granted deemed university status, and Manipal Institute of Technology became its constituent college.
+
+[('When did Indira Gandhi visit Manipal Institute of Technology?', 'The'),
+ ('When did Smt. Gandhi visit Manipal Institute of Technology?', 'In'),
+ ('When did Smt. Gandhi visit Manipal Institute of Technology?', 'In'),
+ ('When was the Manipal Institute of Technology brought under the purview of '
+  'what university?',
+  'Mangalore University in'),
+ ('When did Smt. Gandhi visit Manipal Institute of Technology?', 'In'),
+ ('When was the swimming pool inaugurated?',
+  'swimming pool was inaugurated in'),
+ ('When was the swimming pool inaugurated?',
+  'swimming pool was inaugurated in'),
+ ('What does MAHE stand for?', 'Manipal Academy of Higher Education')]
+
+
+
+Dr. A.P.J. Abdul Kalam, the then President of India, visited the college and interacted with the students in . This visit was later repeated in by the then President of India Pratibha Patil. saw the construction of the Innovation Center, housing companies such as Phillips and EMC and associated research and development. The 7-floor 9th block located between the 3rd and 4th blocks for housing lady students was also completed during this period. The adjoining new lecture hall complex ('NLH') was built anticipating the increase in intake and was inaugurated in the year.
+
+[('How did Dr. A.P.J. Abdul Kalam interact with students?',
+  'interacted with the students in'),
+ ('Who was Dr. A.P.J. Abdul Kalam?', 'President of India'),
+ ('Along with the Innovation Center and research and development, what '
+  'companies were housing in the college?',
+  'Phillips and EMC'),
+ ('What was completed between the 3rd and 4th blocks?', '7-floor 9th block'),
+ ("What is 'NLH'?", 'lecture hall complex')]
+
+
+
+Saw the inauguration of Academic Block, the largest academic building on campus, housing classrooms, academic and research labs, and department and faculty offices. Undergraduate courses in instrumentation and control engineering were added in and mechatronics was added in . Those in aeronautical engineering and automobile engineering were added in . The Department of Architecture was rechristened as the Faculty of Architecture in , and then as Manipal School of Architecture and Planning and Design, as a separate institute under the Manipal Academy of Higher Education in . In , an integrated course in computer science and communication engineering was added, under the Department of Information and Communication Technology.
+
+[('What course was added to the Academic Block?', 'mechatronics was added in'),
+ ('What field of study was added to the Academic Block?', 'mechatronics'),
+ ('What was the Department of Architecture rechristened as?',
+  'Faculty of Architecture in'),
+ ('What was the Department of Architecture rechristened as?',
+  'Faculty of Architecture in'),
+ ('The Manipal School of Architecture and Planning and Design was a separate '
+  'institute under what institution?',
+  'Manipal Academy of Higher Education in')]
+
+
+
+The annual undergraduate student intake increased from 500 spread over engineering disciplines in the year to 1,800 spread over 11 disciplines in . As of July [update], the institute has an intake of more than 4,000 students. The institute was also visited by Smt. Pratibha Patil, the then President of India, for the university's annual convocation in December . The then Finance Minister and future President of India, Shri Pranab Mukherjee, also visited the institute on May to inaugurate one of the academic blocks. The institute was visited by acclaimed South Indian film director S.S. Rajmouli in October . The institute also played host to the 46th annual convention of the National Association of Students of Architecture (NASA) in January .
+
+[('How many undergraduates did the institute have in the year?',
+  '1,800 spread over 11 disciplines in'),
+ ('As of July, how many students were in the institute?', '4,000'),
+ ('When did Smt. Pratibha Patil visit the institute?', 'December'),
+ ('When did Smt. Pratibha Patil visit the institute?', 'December'),
+ ('Who inaugurated one of the academic blocks?',
+  'The then Finance Minister and future President of India, Shri Pranab '
+  'Mukherjee,'),
+ ('When did S.S. Rajmouli visit the institute?', 'October'),
+ ('When was the 46th annual convention of the National Association of Students '
+  'of Architecture held?',
+  'January')]
+
+
+
+The new logo of the institute was unveiled by alumni Nokia former CEO Rajiv Suri during the institute's convocation. It was designed by Kartikeya Rastogi, who was then a senior year chemical engineering undergraduate student. In July , it was among the two private institutes to be decreed with Institute of Eminence. MIT Manipal's campus is located km ( mi) north of Mangalore. The campus is located km from Udupi's railway station and is spread over an area of 188 acres (76 ha) housing academic buildings, and residential buildings (known as blocks), with a total capacity of 10,000 inhabitants.
+
+[('Who unveiled the new logo of MIT Manipal?', 'Rajiv Suri'),
+ ("What was Kartikeya Rastogi's major?", 'chemical engineering'),
+ ('When was MIT Manipal decreed with Institute of Eminence?', 'July'),
+ ("How far is MIT Manipal's campus from Mangalore?", 'mi)'),
+ ("How many people are on MIT Manipal's campus?", '10,000')]
+
+
+
+Kamath Circle has been renamed and renovated as Student Plaza with a two-floored colosseum-like structure and a musical fountain at the center also containing a couple of general stores. The food court, with a seating capacity of 500 people, caters to the food needs of about 1,500 people daily. A second food court was constructed in near the 7th and 8th hostel blocks. Apart from Food Court and Food Court, there exists other food courts known as Annapoorna Mess and Apporva Mess located near Hostel Block and Hostel Block D, respectively. MIT has been using a credit-based system since , in which each course is assigned a number of credits.
+
+[('What has been renamed and renovated as Student Plaza?', 'Kamath Circle'),
+ ('How many people do the food court cater to daily?', '1,500'),
+ ('Where was a second food court constructed?', '7th and 8th'),
+ ('What is the name of the food court located near Hostel Block D?',
+  'Annapoorna Mess'),
+ ('How long has MIT been using a credit-based system?',
+  'MIT has been using a credit-based system since')]
+
+
+
+The odd semester starts around the month of July and ends by December, and the even semester starts around January and ends by May. Manipal Academy of Higher Education is accredited by the Government of India's National Assessment and Accreditation Council (NAAC). MIT Manipal offers full-time, four/five-year undergraduate (bachelor's degree) programs in the various disciplines, as well as Master of Technology (M.Tech.) degrees and various other postgraduate programs awarding Master of Science (M.S.) in Software Engineering, Master of Computer Applications (M.C.A.), and an integrated M.B.A. program (in conjunction with other programs in MAHE).
+
+[('When does the odd semester at MIT begin?', 'July'),
+ ('What does NAAC stand for?', 'National Assessment and Accreditation Council'),
+ ('How long are the undergraduate programs at MIT Manipal?', 'four/five-year'),
+ ('What degree programs are offered at MIT Manipal?',
+  'Master of Science (M.S.) in Software Engineering, Master of Computer '
+  'Applications (M.C.A.), and an integrated M.B.A.')]
+
+
+
+
+Admissions to postgraduate programs are either on the basis of an entrance exam or the performance in an undergraduate degree program. All applicants are required to have appropriate bachelor's degrees. The institute also offers Ph.D. programs on a full-time or part-time basis for suitably qualified candidates. Manipal Institute of Technology was ranked 4th among engineering colleges in India by India Today in , among private engineering colleges by Outlook India in , and 1st among engineering colleges by the National Institutional Ranking Framework (NIRF) in .
+
+[('What is the basis for admission to postgraduate programs?',
+  'an entrance exam'),
+ ('What are all applicants required to have?',
+  "appropriate bachelor's degrees."),
+ ('What type of programs does the Manipal Institute of Technology offer on a '
+  'full-time or part-time basis?',
+  'Ph.D. programs'),
+ ('Who ranked Manipal Institute of Technology 4th among engineering colleges '
+  'in India?',
+  'India Today in')]
+
+
+
+Admission to Manipal Institute of Technology is through the Manipal Entrance Test (MET), which replaced the Manipal University Online Entrance Test (MU OET) for and beyond and is carried out at centers across India. It is a computer-based exam and consists of questions testing Physics, Chemistry, Mathematics, English, and Logical Reasoning and spans a duration of 2 hours and 30 minutes. The test is for 200 marks, +4 for every correct answer and -1 for every wrong one. MAHE offers two opportunities for a student to write the entrance exam, subject to additional payment and availability of vacancies. The format was changed and the test now has 200 questions and the total maximum marks are 800.
+
+[('What does MET stand for?', 'Manipal Entrance Test'),
+ ('What type of exam is the Manipal Entrance Test?', 'computer-based'),
+ ('How many marks does the Manipal Entrance Test get for every correct answer?',
+  '+4'),
+ ('How many opportunities does MAHE offer for a student to write the entrance '
+  'exam?',
+  'two'),
+ ('How many marks does the Manipal Entrance Test have?', '200')]
+
+
+
+Each MCQ (Multiple Choice Question) carries 4 marks with negative marking, whereas each NAT (Numerical Answer Type) carries 4 marks with no negative marking. , unlike other entrance exams, the computer-based exam scores are displayed immediately after the exam ends, with which one may appear for admission counseling. The institute makes budgetary provisions for the maintenance of research equipment through capital allocation. An amount of ₹ million was sanctioned to the institute in – towards innovation. MITians have access to various journals and educational materials to facilitate research by students.
+
+[('What carries 4 marks with negative marking?',
+  'MCQ (Multiple Choice Question)'),
+ ('What is the advantage of computer-based exam scores?',
+  ', unlike other entrance exams, the computer-based exam scores are displayed '
+  'immediately after the exam ends,'),
+ ('What does MIT make budgetary provisions for?',
+  'maintenance of research equipment'),
+ ('How much money was sanctioned to the MIT institute for innovation?',
+  'million'),
+ ('What do MITians have access to to facilitate research by students?',
+  'various journals and educational materials')]
+
+
+
+Students of the institute take up summer internship as a part of their curriculum. Several research programs in the areas of nanotechnology, nuclear engineering, VLSI design, and pattern recognition are being pursued in the interdisciplinary labs under the institute's Innovation Centre. The oldest student organizations are the Editorial Board and the Student Council. The Student Council, MIT Manipal, is the apex student body of the institute, composed of elected student representatives. The President chairs the council followed by the General Secretary.
+
+[('What do students of MIT Manipal take up as a part of their curriculum?',
+  'summer internship'),
+ ('What research programs are being pursued in the interdisciplinary labs '
+  "under the institute's Innovation Centre?",
+  'nanotechnology, nuclear engineering, VLSI design, and pattern recognition'),
+ ('What is the oldest student organization at MIT?', 'Editorial Board'),
+ ('What is the apex student body of MIT Manipal?', 'The Student Council,'),
+ ('Who chairs the Student Council?', 'The President')]
+
+
+
+The Cultural Secretary is overall in charge of all cultural clubs of the institute and is also the convener of Revels, along with the Sports Secretary. Likewise, the Sports Secretary is responsible for all the sporting activities of the institute and heads as well as coordinates with all the sports captains of various sports clubs and teams of the institute. Similarly, Technical Secretary heads all the technical clubs, and Placement Secretaries coordinate with the companies and students during the placement season. Overall, there are close to a hundred clubs and organizations in the institute. The clubs are completely run and managed by the students, and they host a variety of events/competitions throughout the year.
+
+[('Who is in charge of all cultural clubs of the institute?',
+  'Cultural Secretary'),
+ ('Who does the Sports Secretary coordinate with?', 'sports captains'),
+ ('Who coordinates with the companies and students during the placement '
+  'season?',
+  'Placement Secretaries'),
+ ('How many clubs and organizations are in the institute?',
+  'close to a hundred'),
+ ('What do the clubs host throughout the year?',
+  'a variety of events/competitions')]
+
+
+
+Technical clubs like SAE-IM (Society of Automotive Engineers-India| Manipal), ASME (American Society of Mechanical Engineers), IE-CSE, IE-Civil, IE-E&C, IE E&E, IE-Mechatronics, cultural clubs like Goonj, The Hindi Literary Club, Blank-, Comedy Club Manipal, ΛδQ (The Literary, Debate, and Quiz Club), Red-X (The Socio-Adventure Club), and more clubs like ADA Dramatics, Aaina Dramatics, and The Music and Fine Arts Club have won several awards at major cultural fests such as Unmaad, IIM Bangalore, and Mood Indigo, IIT Bombay.
+
+[('What clubs have won several awards at major cultural fests like Unmaad, IIM '
+  'Bangalore, and Mood Indigo?',
+  'ADA Dramatics, Aaina Dramatics, and The Music and Fine Arts Club')]
+
+
+The college has an official student-run media body, The MIT Post. It was founded on November . The MIT Post keeps a record of all student activities on campus, including those of all other clubs and organizations. Another prominent name is the Photography Club, Manipal, which is the official photography club of the college founded all the way back in . Teams from ManipalTech have won innovation and entrepreneurship competitions such as the GE Edison Innovation Challenge and consecutive victories at the Schneider Electric India Innovation Challenge. The college has several technical clubs, including international as well as national student organizations such as the ACM, IEEE, ISTE, IEMCT, and ASME. These clubs are very active on campus and organize workshops and various other events on a regular basis.
+
+[('When was the MIT Post founded?', 'November'),
+ ('When was the MIT Post founded?', 'November'),
+ ('When was the Photography Club, Manipal founded?', 'all the way back in'),
+ ('When was the Photography Club, Manipal founded?', 'all the way back in'),
+ ('What innovation and entrepreneurship competition has ManipalTech won?',
+  'GE Edison Innovation Challenge'),
+ ('What type of clubs does ManipalTech have?', 'technical'),
+ ('What do the technical clubs organize on a regular basis?',
+  'workshops and various other events')]
+
+
+
+Formula Manipal is a student initiative aiming to conceive, design, fabricate, develop, and compete with other formula-style vehicles at international Formula Student events. They built a cc race car that was selected to participate in the Formula SAE competition organized by the Society of Automotive Engineers held at Ferrari Race Track at Maranello in Italy, an international race car design competition attended by universities from across the world. In , the team participated with the second prototype at FS UK, held at the Silverstone F track. ThrustMIT is one of the country’s first rocketry teams. The team aims to foster interest and innovation in the field of rocketry.
+
+[('What is Formula Manipal?', 'student'),
+ ('Where was the Formula SAE competition held?',
+  'Ferrari Race Track at Maranello'),
+ ('When did the Formula Manipal team participate in the Silverstone F track?',
+  'In'),
+ ("What is one of the country's first rocketry teams?", 'ThrustMIT'),
+ ('What is the goal of ThrustMIT?',
+  'to foster interest and innovation in the field of rocketry.')]
+
+
+
+The modus operandi at ThrustMIT involves providing team members with hands-on experience in this field, allowing them to improve and learn on the job, which ultimately aids them in supporting the team’s endeavors. Project Manas is another initiative by students and is an AI robotics team that was founded in the year . They have taken part in India's biggest driverless car challenge - "Spark The Rise" - organized by Mahindra. The team qualified for three stages and is one of the top teams to qualify for the prototyping phase.
+
+[('When was Project Manas founded?', 'the year'),
+ ('When was Project Manas founded?', 'the year'),
+ ('When was Project Manas founded?', 'the year'),
+ ('When was Project Manas founded?', 'the year')]
+
+
+
+The prototype is capable of detecting and navigating around pedestrians, a variety of traffic signs and signals, road and non-road regions, vehicles along with a wide range of other obstacles. AeroMIT is a student project aiming towards aeromodelling and drone research. They design and fabricate RC and autonomous aerial vehicles for competition as well as research purposes. The year - was one of the most successful years for the team. They secured podium positions in national competitions like Aerophilia and Techfest, . The team also secured world rank in their flagship competition SAE Aerodesign East held in Lakeland, Florida. Other than that, the team secured world rank in the category of oral presentation by scoring the highest points in the history of the competition and was also the only team to lift the maximum possible payload.
+
+[('The prototype is capable of detecting and navigating around pedestrians, '
+  'road and non-road regions, and what other obstacle?',
+  'vehicles'),
+ ('What is the name of the student project aiming towards aeromodelling and '
+  'drone research?',
+  'AeroMIT'),
+ ('What does AeroMIT design and fabricate?',
+  'RC and autonomous aerial vehicles'),
+ ('What national competitions did AeroMIT secure podium positions in?',
+  'Aerophilia and Techfest,'),
+ ('What national competitions did AeroMIT secure podium positions in?',
+  'Aerophilia and Techfest,'),
+ ('What is the name of the flagship competition held in Lakeland, Florida?',
+  'SAE Aerodesign East'),
+ ('What category did the AeroMIT team score the highest points in the history '
+  'of the competition?',
+  'oral presentation')]
+
+
+
+Participating in competitions is not the only goal of the team; they also focus on various projects and research work. Mars Rover Manipal, one of the more recent endeavors by undergraduate students, is a multi-disciplinary team that designs and builds rovers for the exploration of extraterrestrial environments. They regularly compete in various competitions and have steadily improved their rankings at the University Rover Challenge held by the Mars Society USA, since they first entered in . It is a premier robotics competition held annually every summer at the Mars Desert Research Station in Utah, USA. MIT hosts one festival every semester.
+
+[('What is not the only goal of the Mars Rover Manipal team?',
+  'Participating in competitions'),
+ ('What organization holds the University Rover Challenge?',
+  'Mars Society USA, since they first entered in'),
+ ('How long has the Mars Rover Manipal team been competing at the University '
+  'Rover Challenge?',
+  'since they first entered in'),
+ ('How often is the Mars Rover Manipal competition held?', 'annually'),
+ ('How many festivals does MIT host every semester?', 'one')]
+
+
+
+In even semesters, there is a cultural and sports festival, "Revels". The official theme of the Revels festival was 'Qainaat'. The theme was to drive healthy environmental practices around the globe, to address the environmental crisis. In odd semesters, there is a technical festival, "Tech Tatva". These are student-organized fests, with participants from all over India and overseas. The students of the university, with some help from the administration, carry out the festivities on the campus. The entire process of managing and organizing the fest is handled by the students with the work being divided amongst various categories.
+
+[('What kind of festival is "Revels"?', 'cultural and sports'),
+ ('What is the name of the cultural and sports festival?', 'Revels'),
+ ('What was the theme of the Revels festival?',
+  'drive healthy environmental practices'),
+ ('What type of festival is Tech Tatva?', 'technical'),
+ ('What type of fest is Tech Tatva?', 'student-organized'),
+ ('Who manages and organizes Tech Tatva?', 'students'),
+ ('Who handles the entire process of managing and organizing the fest?',
+  'the students')]
+
+
+
+In , following aggressive protests by the students of the Manipal Institute of Technology (MIT), the director, Kum Kum Garg, resigned from her post. The protesting students had demanded the resignation of the director for her alleged insensitive remarks over the death of a student in a bus accident. In March, MIT required students to download a software called Pexa Lite on their laptops, to conduct proctored end-semester exams. On installing the software, some students complained of their laptops slowing or crashing due to malware. In February, the students of MIT were called back to campus for the offline end-semester examinations.
+
+[('When did the director of the Manipal Institute of Technology resign?', 'In'),
+ ('Why did the protesting students demand the resignation of the director of '
+  'the Manipal Institute of Technology?',
+  'for her alleged insensitive remarks over the death of a student'),
+ ('What software did MIT require students to download in March?', 'Pexa Lite'),
+ ('What did some students complain about their laptops after installing Pexa '
+  'Lite?',
+  'slowing or crashing'),
+ ('What happened to the students of MIT in February for the offline '
+  'end-semester exams?',
+  'called back to campus')]
+
+
+
+But on March, offline classes were canceled due to the rising number of COVID- cases on campus. By the first week of April, over students of MIT were infected by the coronavirus due to poor social distancing and lax safety standards in the college. In the last week of May, MIT released a revised schedule for the upcoming months. This was a very chaotic, tough schedule. This caused outrage amongst the students, who were already not pleased with the college due to unpopular decisions taken by them over the course of the pandemic. The protests by the students of MIT were initially ignored by the administration of MIT and MAHE. But, on June, MIT cancelled the end-semester examinations and opted to prorate the marks based on previous semester performances.
+
+[('Why were offline classes canceled?', 'COVID-'),
+ ('Why were students infected with the coronavirus?', 'poor social distancing'),
+ ('When did MIT release a revised schedule for the upcoming months?',
+  'last week'),
+ ('What type of schedule did MIT release in May?', 'very chaotic, tough'),
+ ('What did the revised schedule cause amongst the students?', 'outrage'),
+ ('Who ignored the protests of the students of MIT?', 'administration'),
+ ('What did MIT do after the end of June?',
+  'prorate the marks based on previous semester performances.')]
