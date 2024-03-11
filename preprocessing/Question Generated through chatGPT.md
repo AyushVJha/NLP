@@ -214,3 +214,42 @@ MAHE has initiatives and incubation centers to support entrepreneurial ventures.
 <br>
 MAHE is committed to fostering a diverse and inclusive campus environment. The university promotes equal opportunities for all students, irrespective of their background, and actively works towards creating a welcoming and supportive atmosphere.
 <br>
+48.What is your review of Manipal Institute Of Technology (Manipal)?<br>
+Well there are many categories to the answer to your question. I'm best suited to answer your question because I've been here for 3 years now and I'm currently pursuing my 4th year in Mechanical Engineering. (2013–17)
+
+So let's start.
+
+General life - As far as life outside academics is concerned this is a great college. This college literally has so many options for you to venture into. From student clubs to proper technical clubs like the solar Mobil project and formula Manipal (pretty cool trust me) trust me you don't want to waste your time.
+
+Then there is the dramatics societies which don't do much but hey you can party like anything with them.
+
+Sports- The sports scene is quite interesting, we have two semi professional leagues in cricket and football (MIT Cricket league and MIT football league). I was a part of the latter. But there's high competition even here. So you have plenty of time to up your game.
+
+Food - Now coming to the culinary options. Trust me, nothing like this place. Ffs, Manipal has two Mexican restaurants! You have plenty of options and 9/10 you won't be disappointed with the gastronomy in Manipal. Messes are normally better than the ones in any engineering college.
+
+Bars and recreation - The age old notion that Manipal is known for its partying and drugs and alcohol is true. But it depends on what kind of a person you are. I've had plenty of temptations owing to the fact as to how easy it is to get alcohol and drugs over here but it ultimately comes down to you. I've seen people abstain from anything for 4 years to people who do it on a regular basis. So that's there. Bars like Deetee, Zeal and Hideout give the place a different level of charm no doubt. I'm not saying I'm proud about this fact about my college but then again the students have jurisdiction about what they should do and it isn't the college's fault.
+
+Academics- Now as you know this point depends on the branch as well. The faculty for Mechanical and Civil is very liberal and very well endowed with knowledge but the quality of the syllabus is pathetic. We're still being taught stuff which has been extinct for thirty years! This affects a lot of things. Education is more marks driven rather than learning. You're judged by the teachers for getting a low CGPA no matter what they tell you otherwise. It gets a lot worse if you're in ECE, EEE and CSE. The teachers are a nightmare over here for these branches. All the teachers focus on the amount of marks you get and hardly anyone makes sure whether you have learnt something. There's an overload of assignments and tests like any other engineering college. But the labs are in a pathetic stage (especially mechanical and civil) you see a pattern here? You're gonna be a theoretical not a practical engineer.
+
+The current director is trying really hard but I don't think he can do anything about it. The amount of fees been taken should be slashed by half in my opinion if not lesser. Dreadful stuff. Teachers are biased towards Kannads (localites) and good luck if you're from anywhere else. Like they'll give them more marks, much more lenient attendance cases and so on. Academically not much to learn. Companies are actually disappointed with the academics.
+
+People- the diversity is something to behold. You're gonna learn so much from students from different states that its beautiful. Everyone has their own take on life and as a multi diverse college you're sure to interact with a lot of people. Many of my friends have grown more confident as the years have progressed. The freedom this place has to offer is unmatched. But not worth paying 20 lakhs.
+
+Placements- One word. Crap. Before you judge me, I'm not sitting for placements so that I can study for CAT and GRE, so yes my opinion is unbiased. The companies treat you like a joke, pay packages are pretty low (except for if you're in the top 10% in CSE or ECE) and funnily at the time of writing this the college is pushing people towards TCS so that they can lie to you from the outside that we have a good placement scene. People on my college are happy with a decent job which is wrong given that we are pressurised so much in these three years. An average job doesn't do justice.
+
+Truth is that companies back out each year and hence more people are pushed towards MRCs. Teachers who have taught you for three years push you towards MRCs so that their job is done which is pretty shameful. College is really un-cooperative towards placements and don't give two fucks about the quality of companies arriving. It's all about quantity. By quality I don't mean pay packages. The placement coordinator Mr. Giridhar P. Kini is a absolute joke. And if your aim is to join a good company, this college isn't for you. Again, I speak as a neutral. They tried pushing me towards TCS too. Core companies are reducing and the student intake is increasing. You do the math.
+
+OVERALL- Good interpersonal development and a good college life. Average teachers. Bad academics. Fucked up placements.
+
+TIP- College helps you towards higher studies so that's a huge advantage. The college is somehow reputed in that sphere. Msc is a good option after a degree from Manipal.
+
+Thank you for your patience.<br>
+
+49.How hard is it to get into mit (Manipal University)?<br>
+I had gotten admission in manipal (manipal institute of technology) main campus in computer science and engineering branch (cse). Personally i would say that MET is a very easy test given that you have prepared for exams like jee main or mht cet or bitsat . Just know the formulae of atleast majority of the chapters and the basic jee main or a bit lower than jee mains level concepts and you are good to go .<br>
+
+50. Which branch in Engineering would have the best scope?<br>
+All Engineering branches have an equally good scope. Much depends on your passion for the program and your endeavour to excel.
+<br>
+
+
