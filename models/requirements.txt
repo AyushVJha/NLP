@@ -1,0 +1,9 @@
+pypdf
+transformers 
+einops
+accelerate 
+bitsandbytes
+sentence_transformers
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface
+llama-index
